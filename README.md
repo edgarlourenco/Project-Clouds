@@ -23,3 +23,4 @@ Pegando na estrutura deste site [PublicCloud](https://comparecloud.in/), escolhe
 - [ ] Azure Load Balancer
 - [ ] Virtual Network
 - [ ] Log Analytics
+- [ ] Azure Automation
