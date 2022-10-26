@@ -1,4 +1,4 @@
-# WebApps Azure
+# WebApps
 
 [Link de Acesso](https://azure.microsoft.com/en-us/products/app-service/web/)
 
