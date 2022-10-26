@@ -29,6 +29,7 @@ Acesso a Documentação da WebApps:
 ## Preços
 
 **Tipos de preço**:
+
 * Gratuito
 * Shared
 * Básico
@@ -40,11 +41,11 @@ Acesso a Documentação da WebApps:
 
 * [Link de Acesso](https://azure.microsoft.com/en-us/pricing/details/app-service/windows/#pricing)
 
-**Tabela base** : 
+**Tabela base** :
  
 ![Tabela Preços](./Pricing.png)
 
-**Serviço Livre e Partilhado** : 
+**Serviço Livre e Partilhado** :
 
 ![Tabela Livre](./FreeShared.png)
 
@@ -52,7 +53,7 @@ Acesso a Documentação da WebApps:
 
 ![Tabela Básico](./BasicServicePlan.png)
 
-**Serviço Standard** : 
+**Serviço Standard** :
 
 ![Tabela Standard](./Standard.png)
 
@@ -60,7 +61,7 @@ Acesso a Documentação da WebApps:
 
 ![Tabela Premium v2](./Premium%20v2.png)
 
-**Serviço Premium v3** : 
+**Serviço Premium v3** :
 
 ![Tabela Premium v3](./Premium%20v3.png)
 
@@ -68,23 +69,18 @@ Acesso a Documentação da WebApps:
 
 ![Tabela Isolada](./Isolated.png)
 
-**Serviço Isolado v2** : 
+**Serviço Isolado v2** :
 
 ![Tabela Isolada v2](./Isolated%20v2.png)
 
-**App Service Domain** : 
+**App Service Domain** :
 
 ![Tabela App Service](./AppServiceDomain.png)
 
-**Certificados App Services** : 
+**Certificados App Services** :
 
 ![Tabela Certificados](./WebApp%20Certificate.png)
 
-**Conexões SSL** : 
+**Conexões SSL** :
 
 ![Tabela Conexões](./SSL%20Connections.png)
-
-
-
-
-
