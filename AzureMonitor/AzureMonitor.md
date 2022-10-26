@@ -54,4 +54,4 @@
 ![Alert](./AlertRules.png)
 
 **Notifications**:
-![Notifications](./No)
+![Notifications](./Notifications.png)
