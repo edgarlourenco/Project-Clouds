@@ -6,10 +6,9 @@ Tendo em conta o pedido, ver estrutura funcional e objetiva para conseguir intit
 Pegando na estrutura deste site [PublicCloud](https://comparecloud.in/), escolher os serviços mais prioritários e os serviços mais fundamentais, explorar essa documetação e começar a por o site operacional para esse uso.
 
 - [ ] [Sharepoint](https://www.microsoft.com/pt-pt/microsoft-365/sharepoint/collaboration)
-- [ ] Ver documentação Sharepoint e fazer mapa mental para poder ver modelo do site
+- [ ] Modelo de Site / BrainStorm de ideias
 - [ ] Estrutura
-- [ ] Disposição dos Dados
-- [ ] Como Revelar os Dados
+- [ ] Disposição dos Dados e Mostrar
 - [ ] Situação das APis e ver ligações, principalmente ligações a calculadoras de Azure ou estudar outras possibilidades
 
 ### Azure
