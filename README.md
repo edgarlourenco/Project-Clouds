@@ -17,9 +17,9 @@ Pegando na estrutura deste site [PublicCloud](https://comparecloud.in/), escolhe
 
 - [ ] Virtual Machines
 - [ ] Azure Databases 
-- [ ] [Azure App Services](WebApps/WebApps.md)
+- [X] [Azure App Services](WebApps/WebApps.md)
 - [ ] Storage
 - [ ] Azure Load Balancer
 - [ ] Virtual Network
-- [ ] [Azure Monitor](AzureMonitor/AzureMonitor.md)
+- [X] [Azure Monitor](AzureMonitor/AzureMonitor.md)
 - [ ] Azure Automation
