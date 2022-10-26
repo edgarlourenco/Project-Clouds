@@ -12,6 +12,14 @@
 * Tirar partido da consistência híbrida
 * Escolher serviços a nível empresarial
 
+## Benefícios WebApps via Azure
+
+* Desenvolvimento de aplicações web de alta segurança
+* Framework versátil e multilíngua
+* Melhoria da produtividade do desenvolvedor com Modelos de Aplicação
+* Integração com Visual Studio
+* Integração Segura com outras aplicações SaaS (Software as a Service)
+
 ## Documentação 
 
 Acesso a Documentação da WebApps:
