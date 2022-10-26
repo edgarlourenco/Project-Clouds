@@ -22,4 +22,4 @@ Pegando na estrutura deste site [PublicCloud](https://comparecloud.in/), escolhe
 - [X] [Azure Load Balancer](LoadBalancer/LoadBalancer.md)
 - [X] [Virtual Network](VirtualNets/VNet.md)
 - [X] [Azure Monitor](AzureMonitor/AzureMonitor.md)
-- [ ] Azure Automation
+- [X] Azure Automation(Automation/Automation.md)
