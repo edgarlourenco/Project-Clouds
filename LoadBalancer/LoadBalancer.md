@@ -19,3 +19,10 @@
 * Gateway - Possibilita cenários que precisam de encadeamento de serviços, como análise, proteção contra DDoS, firewall e muito mais.
 * Básico - Suporta aplicações de pequena escala que não precisam de elevada disponibilidade ou redundância.
 
+## Preços
+
+**Standard**:
+![Standard](./Standard.png)
+
+**Gateway**:
+![Gateway](./Gateway.png)
