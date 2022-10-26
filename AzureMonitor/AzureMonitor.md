@@ -23,6 +23,35 @@
 
 ## Preços
 
-**Analytics Logs**
+**Analytics Logs** :
+![Logs](./LogsAnalytics.png)
 
-![Logs]()
+**Basic Logs** :
+![Basic](./BasicLogs.png)
+
+**Log Data Retention** :
+![LogData](./LogDataRetention.png)
+
+**Log Data Archive and Restore**:
+![ArchiveRestore](./LogArchiveRestore.png)
+
+**Log Data Export**:
+![Export](./LogDataExport.png)
+
+**Web Tests**:
+![Tests](./WebTests.png)
+
+**Platform Logs**:
+![Platform](./PlatformLogs.png)
+
+**Standard and Custom Metrics**:
+![Metrics](./StandardCustomMetrics.png)
+
+**Prometheus Metrics**:
+![Prometheus](./PrometheusMetrics.png)
+
+**Alert rules**:
+![Alert](./AlertRules.png)
+
+**Notifications**:
+![Notifications](./No)

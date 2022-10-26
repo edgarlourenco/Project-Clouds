@@ -46,43 +46,43 @@ Acesso a Documentação da WebApps:
 
 **Serviço Livre e Partilhado** : 
 
-![Tabela Livre](./WebApps/FreeShared.png)
+![Tabela Livre](./FreeShared.png)
 
 **Serviço Básico** :
 
-![Tabela Básico](./WebApps/BasicServicePlan.png)
+![Tabela Básico](./BasicServicePlan.png)
 
 **Serviço Standard** : 
 
-![Tabela Standard](./WebApps/Standard.png)
+![Tabela Standard](./Standard.png)
 
 **Serviço Premium v2** :
 
-![Tabela Premium v2](./WebApps/Premium%20v2.png)
+![Tabela Premium v2](./Premium%20v2.png)
 
 **Serviço Premium v3** : 
 
-![Tabela Premium v3](./WebApps/Premium%20v3.png)
+![Tabela Premium v3](./Premium%20v3.png)
 
 **Serviço Isolado** :
 
-![Tabela Isolada](./WebApps/Isolated.png)
+![Tabela Isolada](./Isolated.png)
 
 **Serviço Isolado v2** : 
 
-![Tabela Isolada v2](./WebApps/Isolated%20v2.png)
+![Tabela Isolada v2](./Isolated%20v2.png)
 
 **App Service Domain** : 
 
-![Tabela App Service](./WebApps/AppServiceDomain.png)
+![Tabela App Service](./AppServiceDomain.png)
 
 **Certificados App Services** : 
 
-![Tabela Certificados](./WebApps/WebApp%20Certificate.png)
+![Tabela Certificados](./WebApp%20Certificate.png)
 
 **Conexões SSL** : 
 
-![Tabela Conexões](./WebApps/SSL%20Connections.png)
+![Tabela Conexões](./SSL%20Connections.png)
 
 
 
