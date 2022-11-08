@@ -86,3 +86,10 @@ O Azure Premium SSD v2 é projetado para cargas de trabalho de empresas intensas
 
 Ao contrário dos SSDs Premium, o Premium SSD v2 não tem tamanhos dedicados. Pode definir um Premium SSD v2 para qualquer tamanho suportado que preferir e fazer ajustes granulares ao desempenho sem tempo de inatividade. Premium SSD v2 não suporta o caching do anfitrião, mas beneficia significativamente de uma latência mais baixa que aborda alguns dos mesmos problemas fundamentais que os endereços de caching do hospedeiro. A capacidade de ajustar IOPS, produção e tamanho a qualquer momento também significa que pode evitar a sobrecarga de manutenção de ter de riscar discos para satisfazer as suas necessidades.
 
+### HDD Standard
+
+Os HDDs standard Azure oferecem suporte fiável e de baixo custo para VMs que executam cargas de trabalho tolerantes à latência. Com o armazenamento padrão, os seus dados são armazenados em HDDs, e o desempenho pode variar mais do que o dos discos baseados em SSD. Os HDDs standard são projetados para fornecer latências de escrita de menos de 10 ms e ler latências de menos de 20 ms para a maioria das operações de IO. No entanto, o desempenho real pode variar dependendo do tamanho do IO e do padrão de carga de trabalho. Ao trabalhar com VMs, pode utilizar discos HDD padrão para cenários dev/teste e cargas de trabalho menos críticas. Os HDDs standard estão disponíveis em todas as regiões do Azure e podem ser usados com todos os VMs Azure.
+
+#### Tamanho HDD Standard
+
+![TamanhoHDD](./StandardDisks/StandardSize.png)
