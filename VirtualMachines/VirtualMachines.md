@@ -41,10 +41,12 @@ Implementar máquinas virtuais com até 416 vCPUs e 12 TB de memória. Obtenha a
 VMs económicos de nível de entrada para desenvolvimento e teste
 Estes são geralmente utilizados em pequenos destacamentos onde o custo da consciência é superior ao desempenho. Estes só devem ser utilizados em implementações raras com VMs não voltadas para o cliente.
 
-**Preços Windows**
+#### Preços Windows
+
 ![Windows](./A-Series/Windows%20Pricing.png)
 
-**Preços Linux**
+#### Preços Linux
+
 ![Linux](./A-Series//Linux%20Pricing.png)
 
 ### Bs-Series
