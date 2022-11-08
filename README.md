@@ -15,7 +15,7 @@ Pegando na estrutura deste site [PublicCloud](https://comparecloud.in/), escolhe
 
 #### Estrutura
 
-- [ ] Virtual Machines
+- [X] [Virtual Machines](VirtualMachines/VirtualMachines.md)
 - [ ] Azure Databases
 - [X] [Azure App Services](WebApps/WebApps.md)
 - [X] [Express Route](ExpressRoute/ExpressRoute.md)
@@ -23,3 +23,4 @@ Pegando na estrutura deste site [PublicCloud](https://comparecloud.in/), escolhe
 - [X] [Virtual Network](VirtualNets/VNet.md)
 - [X] [Azure Monitor](AzureMonitor/AzureMonitor.md)
 - [X] [Azure Automation](Automation/Automation.md)
+- [ ] Disks
