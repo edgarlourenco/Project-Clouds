@@ -36,7 +36,7 @@ Os discos ultra devem ser utilizados como discos de dados e só podem ser criado
 
 Os discos Azure ultra oferecem até 32-TiB por região por padrão, mas discos ultra suportam maior capacidade por pedido. Os discos ultra são concebidos para fornecer latências submilissegundos e IOPS alvo e produção descrita abaixo
 
-![Sizes](Ultra%20Size.png)
+![Sizes](./UltraDisks/Ultra%20Size.png)
 
 #### Limitações Ultra
 
