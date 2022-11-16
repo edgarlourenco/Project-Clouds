@@ -26,3 +26,4 @@ Pegando na estrutura deste site [PublicCloud](https://comparecloud.in/), escolhe
 - [ ] Azure Databases
 - [ ] Azure Functions
 - [ ] Azure Containers (Instances / Apps)
+- [ ] Azure Scale Sets
