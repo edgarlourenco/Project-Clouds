@@ -23,4 +23,4 @@ Pegando na estrutura deste site [PublicCloud](https://comparecloud.in/), escolhe
 - [X] [Virtual Network](VirtualNets/VNet.md)
 - [X] [Azure Monitor](AzureMonitor/AzureMonitor.md)
 - [X] [Azure Automation](Automation/Automation.md)
-- [X] [Disks](Diks/Disks.md)
+- [X] [Disks](Disks/Disks.md)
